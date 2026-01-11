@@ -1,0 +1,5 @@
+https://medium.com/@nirajan.acharya777/choosing-between-mean-squared-error-mse-and-mean-absolute-error-mae-in-regression-a-deep-dive-c16b4eeee603
+https://gemini.google.com/app/8b057d82a92f3129
+https://ai.azure.com/
+https://aws.amazon.com/sagemaker/ai/studio/
+https://www.tensorflow.org/tutorials

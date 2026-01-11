@@ -1,0 +1,13 @@
+Cand instalez Python, la primul pas -> "Use admin privileged when installing py.exe" si (Cel mai important!) "Add python.exe to PATH"<- Bifate
+Cand instalezi VS Code, la al doilea pas dupa path-ul de instalare -> "Open with code" ........... <- Bifate cele doua casute
+Cand instalezi GIT, la primul pas -> "(NEW) Add a Git Bash profile to windows terminal." <- Bifat
+
+In terminal:
+Verifici ce versiune de GIT ai (verificare recomandata pt MacBook users)
+git --version 
+
+De instalat Jupyter Notebook: 
+pip install notebook
+
+Sau pt MacBook
+pip3 install notebook
